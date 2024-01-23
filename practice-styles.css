@@ -1,0 +1,47 @@
+body {
+
+    background: tan;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-image: url("https://wallpapercave.com/wp/wp7521631.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+}   
+
+
+
+h1 {
+    color: white;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    mix-blend-mode: difference;
+}
+
+table {
+    margin: auto;
+    width: 50%;
+    border-style:none;
+    border-color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold; 
+}
+
+thead {
+    text-align: left;
+}
+
+label {
+    display: block;
+}
+
+#submit-btn {
+    display: block;
+}
+
+section{
+    border-style: solid;
+    text-align: center;
+    border-width: 1px;
+}
+
